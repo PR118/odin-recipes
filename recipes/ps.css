@@ -1,0 +1,27 @@
+h1 {
+    background-color: white;
+    opacity: 0.85;
+    border: solid;
+    width: 10%;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: white;
+    opacity: 0.85;
+    border: solid;
+    width: 7%;
+}
+
+#ul, #ol, #desc {
+    background-color: white;
+    border: solid;
+    width: 35%;
+    opacity: 0.75;     
+}
+
+body {
+    background-image: url("../images/bg.jpg");
+    background-size: cover;
+}
