@@ -1,0 +1,37 @@
+h1  { 
+    background-color: white;
+    border: solid;
+    padding-left: 24px;
+    padding-right: 24px;
+    text-align: center;
+    width: 150px;
+    margin: auto;
+    opacity: 0.85
+    
+}
+
+h2 {
+    background-color: white;
+    border: solid;
+    width: 250px;
+    text-align: center;
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    opacity: 0.85
+}
+
+
+
+body {
+    background-image: url("./images/kitchen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.pan, .pasta, .pot {
+                   border: solid;
+                   margin: auto;
+                   display: block;
+}

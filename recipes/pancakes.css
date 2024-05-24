@@ -2,17 +2,23 @@ h1 {
     background-color: white;
     opacity: 0.85;
     border: solid;
-    width: 10%
-    
+    padding: 8px 24px;
+    margin: auto;
+    width: 150px;
+    text-align: center;
 }
 
 h2 { 
-    text-align: center;
+    
     background-color: white;
     opacity: 0.85;
-    border: solid;
-    width: 7%
-    
+    border: solid black;
+    padding: 8px;
+    margin: auto;
+    margin-top: 16px;
+    width: 120px;
+    text-align: center;
+   
 }
 
 #ul, #ol, #desc {
@@ -20,9 +26,22 @@ h2 {
     border: solid;
     width: 35%;
     opacity: 0.75;
+    padding: 8px 8px;
+    margin: auto;
+    margin-top: 16px;
 }
 
 body {
     background-image: url("../images/bg.jpg");
     background-size: cover;
+
 }
+
+img {
+    border: solid;
+    margin: auto;
+    display: block;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
